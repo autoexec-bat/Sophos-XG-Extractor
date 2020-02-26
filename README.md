@@ -4,21 +4,29 @@ The extractors can be imported into Graylogv 3.x to help extract syslog informat
 
 These extractor sets can be imported into your unified XG SYSLOG inputs and handle all log_types as follows:
 
-Anti-Spam
-
-Content Filtering
-
-Event
-
-Firewall
-
-Heartbeat
-
-System Health
-
-SSL
-
-Wireless Protection
+ ATP
+ 
+ Anti-Spam
+ 
+ Anti-Virus
+ 
+ Content Filtering
+ 
+ Event
+ 
+ Firewall
+ 
+ Heartbeat
+ 
+ IDP
+ 
+ System Health
+ 
+ SSL
+ 
+ WAF
+ 
+ Wireless Protection
 
 
 
